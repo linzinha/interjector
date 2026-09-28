@@ -23,6 +23,10 @@ Commands
 Checks
 ----------------
 **Digitize:** If a digitized monster is ready to be fought
+
 **Sausage:** If a Sausage monster is ready to be fought
+
 **Robot:** If Autumn-maton is ready to be sent
+
 **Animal:** If you should swap your familiar for item drops
+
