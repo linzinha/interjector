@@ -8,7 +8,7 @@ Installation
 ----------------
 Run this command in the graphical CLI:
 <pre>
-git checkout https://github.com/linzinha/interjector
+git checkout https://github.com/linzinha/interjector.git
 </pre>
 
 
