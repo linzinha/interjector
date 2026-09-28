@@ -2,6 +2,8 @@ Interjector
 =====
 Helper script for managing between-turn checks within other scripts
 
+NOTE: Current release is **bespoke for my configuration** and will likely not work for anyone else. Feel free to modify for your own needs if you understand ash scripting, but it is not ready for general consumption. All of my realm scripts depend on this.
+
 
 
 Installation
