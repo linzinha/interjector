@@ -164,6 +164,7 @@ void main(string arguments)
         else if (
             (get_property("_aguaDrops").to_int() == 5) &&
             (get_property("_knuckleboneDrops").to_int() > 99)
+            )
         {
             use_familiar($familiar[Cookbookbat]);
             equip($slot[familiar], $item[tiny stillsuit]);
