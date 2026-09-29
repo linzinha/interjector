@@ -170,7 +170,7 @@ void main(string arguments)
             equip($slot[familiar], $item[tiny stillsuit]);
             return;
         }
-
+    }
 
     sendRobot();
 
